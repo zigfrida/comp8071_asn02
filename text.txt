@@ -1,0 +1,528 @@
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('ad174822-37ad-4d5a-a33b-4ac8d2b08acb','Cust 1','1 Street Ave','Burnaby','M',
+            '4-4-1950');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('078df5e7-8847-47f8-907b-fc6206e67247','Cust 2','2 Street Ave','Burnaby','M',
+            '2-11-1964');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('426753ab-a77c-4338-b513-01b4da96646b','Cust 3','3 Street Ave','Burnaby','F',
+            '3-4-1953');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('b7885e88-dad3-4e4c-84f4-b46075fb6458','Cust 4','4 Street Ave','Burnaby','M',
+            '3-5-1983');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('52e395ef-914e-4c23-a272-413c0487270f','Cust 5','5 Street Ave','Burnaby','M',
+            '2-7-1941');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('848e54e2-b2d1-4092-aa2b-75aef005c876','Cust 6','6 Street Ave','Burnaby','M',
+            '6-9-1965');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('12a94c8a-adc7-45dd-82ad-8f548f83dff1','Cust 7','7 Street Ave','Burnaby','F',
+            '7-7-1963');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('4c87312d-1cfb-4b75-b14c-f540d028ada2','Cust 8','8 Street Ave','Burnaby','F',
+            '1-5-1961');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('7a643ebf-57f4-4416-8d82-14281df85df4','Cust 9','9 Street Ave','Burnaby','M',
+            '6-5-1984');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('0178bb59-933b-4280-8054-55075f1efe13','Cust 10','10 Street Ave','Burnaby','M',
+            '7-9-1941');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('6927ac31-28b7-4716-b0f3-9a01aab2a18f','Cust 11','11 Street Ave','Burnaby','M',
+            '1-7-1966');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('bb8a36dc-2742-4244-b207-3f433fa40ca1','Cust 12','12 Street Ave','Burnaby','F',
+            '7-8-1977');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('ec49877e-8248-4966-8e01-f2bafa216983','Cust 13','13 Street Ave','Burnaby','M',
+            '2-8-1975');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('84562154-f34c-4dfd-90c5-930bf19ea582','Cust 14','14 Street Ave','Burnaby','F',
+            '7-11-1960');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('661722ab-cb60-41d4-8da5-041e575076e7','Cust 15','15 Street Ave','Burnaby','F',
+            '6-10-1988');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('4fc239b0-8228-4a97-9cfc-a3b392e2eb01','Cust 16','16 Street Ave','Burnaby','F',
+            '3-7-1945');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('695b566f-9463-496b-a5f3-1492e944960a','Cust 17','17 Street Ave','Burnaby','F',
+            '6-7-1942');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('80689505-b4ab-4a63-89cc-cbbe2c11ccf8','Cust 18','18 Street Ave','Burnaby','M',
+            '3-5-1962');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('401dc212-b49c-4b0e-a58e-2c4e9c1b3987','Cust 19','19 Street Ave','Burnaby','F',
+            '7-7-1949');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('085366dd-cdb4-4c7f-a07c-b28d70fdff27','Cust 20','20 Street Ave','Burnaby','M',
+            '1-8-1947');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('f2943ef8-4f0f-4654-be3c-c2e99f50ed2a','Cust 21','21 Street Ave','Burnaby','M',
+            '5-6-1983');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('9becd688-1988-4034-b3d3-f413490c52be','Cust 22','22 Street Ave','Burnaby','M',
+            '4-6-1970');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('916bbb86-1927-485f-aa6e-1e45aedf4406','Cust 23','23 Street Ave','Burnaby','M',
+            '5-3-1984');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('a83f9d93-c24a-4ed4-878f-86dfe3991600','Cust 24','24 Street Ave','Burnaby','F',
+            '3-2-1944');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('18643ee3-9083-42a0-af79-bbf9829726f4','Cust 25','25 Street Ave','Burnaby','F',
+            '2-6-1948');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('5224c835-4a14-4a99-b2eb-a7b827b024a8','Cust 26','26 Street Ave','Burnaby','F',
+            '3-9-1976');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('e9f09926-92ec-4bfc-acc5-86c937f103a3','Cust 27','27 Street Ave','Burnaby','F',
+            '4-8-1970');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('842ee071-e1dc-4837-b32e-a4bddef890aa','Cust 28','28 Street Ave','Burnaby','F',
+            '7-4-1983');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('b9985de4-70df-49c5-97ec-927671205bc5','Cust 29','29 Street Ave','Burnaby','M',
+            '7-1-1946');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('32877257-7242-46d3-bdb9-bd3e1f7af458','Cust 30','30 Street Ave','Burnaby','F',
+            '6-6-1987');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('5d4ddbf6-969b-414f-b32d-d182ecffc37a','Cust 31','31 Street Ave','Burnaby','F',
+            '2-2-1974');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('5653f811-0838-4214-aeb4-2c7e92587b47','Cust 32','32 Street Ave','Burnaby','F',
+            '5-9-1948');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('4e744615-b766-40ab-b1f7-5e44f9663535','Cust 33','33 Street Ave','Burnaby','M',
+            '6-10-1970');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('f521b96f-3e91-462e-9d3d-3f92d26a1718','Cust 34','34 Street Ave','Burnaby','F',
+            '7-9-1977');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('187779aa-aa5f-4bb3-95db-ab5d8153d2a5','Cust 35','35 Street Ave','Burnaby','M',
+            '2-11-1943');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('bab876cd-bf34-4d2c-a463-faad94cf9e8e','Cust 36','36 Street Ave','Burnaby','M',
+            '7-3-1978');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('c78981ae-6141-4634-a44c-51625583907e','Cust 37','37 Street Ave','Burnaby','M',
+            '4-4-1963');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('0e83c328-d1f3-4574-b4cb-038b9341a6e0','Cust 38','38 Street Ave','Burnaby','M',
+            '3-4-1947');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('f28da4d9-816b-498b-95e0-e832914c5d1c','Cust 39','39 Street Ave','Burnaby','M',
+            '1-6-1943');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('d84956dd-9cbe-46ed-bc9a-ede50c7dcaa4','Cust 40','40 Street Ave','Burnaby','F',
+            '3-5-1978');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('cc16b0ae-ba34-4d52-8cc9-407e258ae652','Cust 41','41 Street Ave','Burnaby','M',
+            '4-7-1949');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('0eaba853-52dc-4cee-aec4-6de737ec21af','Cust 42','42 Street Ave','Burnaby','F',
+            '6-11-1949');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('22f2c0d6-d6b3-425e-a128-b739898d8226','Cust 43','43 Street Ave','Burnaby','M',
+            '1-10-1940');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('61ae9891-7e5d-4bc9-9055-dbcf0da2abd2','Cust 44','44 Street Ave','Burnaby','F',
+            '5-12-1977');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('70e3d37c-b049-410a-9622-a0a3b3d5fbb1','Cust 45','45 Street Ave','Burnaby','F',
+            '3-5-1970');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('4f8164d6-f376-45bd-ab0b-55c44070250e','Cust 46','46 Street Ave','Burnaby','F',
+            '5-11-1989');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('a438fb4d-4571-4910-aca5-9e00bad51d50','Cust 47','47 Street Ave','Burnaby','M',
+            '4-4-1942');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('a60aed0f-7359-43f3-93d0-0ad2c0d37354','Cust 48','48 Street Ave','Burnaby','M',
+            '6-4-1981');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('80b38477-084d-4b8c-8b1a-d46d79586365','Cust 49','49 Street Ave','Burnaby','M',
+            '3-9-1941');
+INSERT INTO customer (ID, name, street, city, gender, birthdate) VALUES ('8f3c6f90-a60a-465e-9867-111bdd3e21e2','Cust 50','50 Street Ave','Burnaby','M',
+            '7-6-1954');
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('ebff17e5-82ed-40ac-9549-ff46084eb86b','Emp 1','1 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('2451a2ed-a15e-4436-a335-7e64c03302cf','Emp 2','2 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('270df046-7c54-4384-9b5a-a2c88c933e13','Emp 3','3 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('56b0b280-ef3e-4a93-9db6-60588c7c0900','Emp 4','4 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('7c231791-fe78-4cd6-9df0-1b0445f0e50b','Emp 5','5 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('c42e5f64-9630-435b-b78c-baa51ea8360f','Emp 6','6 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('906da866-91b2-4e77-b8e8-07107848b24e','Emp 7','7 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('c1848698-4ef7-4d62-9ae2-6e05e0160117','Emp 8','8 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('081c73dd-6fae-4567-bf59-5857b5316ecc','Emp 9','9 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('de9d8b8a-9982-4b08-837c-96a304ec4702','Emp 10','10 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('7b0e0c1d-bf1c-4864-9fdb-4cb107241df5','Emp 11','11 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('268f5903-2209-4324-9d34-f586efe85055','Emp 12','12 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('9e3c4034-03c8-4177-92e0-5a50d1006d5e','Emp 13','13 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('68db6230-f487-420f-93b7-76ecad2b6846','Emp 14','14 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('47399db2-0c1b-4935-93af-ad4ecdbb42c4','Emp 15','15 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('24ffc63b-f3c0-41b2-ae0e-e1943574ec09','Emp 16','16 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('38d296ad-a458-4035-bca2-671d5f2af32a','Emp 17','17 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('dbde520d-9a0a-456e-a395-6b8ad9d5785a','Emp 18','18 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f','Emp 19','19 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('e57c70e5-eb9a-483b-82ca-4ee8b795ec33','Emp 20','20 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('4d423d57-6826-4706-9092-4988e68b8b49','Emp 21','21 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('9b3719ab-ad66-4e06-8246-7af232909051','Emp 22','22 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('af5ba8ba-7d5e-4a72-92eb-1388b40c862f','Emp 23','23 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('34937604-8f8d-49e7-b648-debe07a6e0cc','Emp 24','24 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO employee (ID, name, street, city, ManagerID, JobTitle, Certification, Salary) VALUES ('2726d5c1-8ebb-4bb7-86f6-32b8429c7f3b','Emp 25','25 Street Ave','Burnaby',1,'Nurse','SLF',10000);
+INSERT INTO servicetype (ID, name, CertificationRqts, Rate) VALUES ('bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','Cleaning','SLF',70);
+INSERT INTO servicetype (ID, name, CertificationRqts, Rate) VALUES ('e3960eec-e01d-4fd6-b3fc-9f0a34173632','Cooking','Chef',95);
+INSERT INTO servicetype (ID, name, CertificationRqts, Rate) VALUES ('6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','Doctor','Doctor',60);
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('401dc212-b49c-4b0e-a58e-2c4e9c1b3987','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','34937604-8f8d-49e7-b648-debe07a6e0cc', '1-3-2023',55,22,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('695b566f-9463-496b-a5f3-1492e944960a','e3960eec-e01d-4fd6-b3fc-9f0a34173632','de9d8b8a-9982-4b08-837c-96a304ec4702', '2-7-2023',50,21,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('18643ee3-9083-42a0-af79-bbf9829726f4','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','906da866-91b2-4e77-b8e8-07107848b24e', '4-6-2023',43,71,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5653f811-0838-4214-aeb4-2c7e92587b47','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','4d423d57-6826-4706-9092-4988e68b8b49', '5-1-2023',47,38,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a60aed0f-7359-43f3-93d0-0ad2c0d37354','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','9e3c4034-03c8-4177-92e0-5a50d1006d5e', '4-5-2022',54,86,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('70e3d37c-b049-410a-9622-a0a3b3d5fbb1','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','24ffc63b-f3c0-41b2-ae0e-e1943574ec09', '7-4-2023',53,73,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('52e395ef-914e-4c23-a272-413c0487270f','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','38d296ad-a458-4035-bca2-671d5f2af32a', '6-12-2023',39,74,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('085366dd-cdb4-4c7f-a07c-b28d70fdff27','e3960eec-e01d-4fd6-b3fc-9f0a34173632','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '4-7-2022',50,81,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('7a643ebf-57f4-4416-8d82-14281df85df4','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','ebff17e5-82ed-40ac-9549-ff46084eb86b', '4-10-2023',53,54,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('f28da4d9-816b-498b-95e0-e832914c5d1c','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','081c73dd-6fae-4567-bf59-5857b5316ecc', '6-5-2023',60,89,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('61ae9891-7e5d-4bc9-9055-dbcf0da2abd2','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','9b3719ab-ad66-4e06-8246-7af232909051', '5-2-2023',31,74,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('c78981ae-6141-4634-a44c-51625583907e','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','ebff17e5-82ed-40ac-9549-ff46084eb86b', '3-1-2023',53,52,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('187779aa-aa5f-4bb3-95db-ab5d8153d2a5','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','38d296ad-a458-4035-bca2-671d5f2af32a', '3-11-2023',37,72,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('8f3c6f90-a60a-465e-9867-111bdd3e21e2','e3960eec-e01d-4fd6-b3fc-9f0a34173632','de9d8b8a-9982-4b08-837c-96a304ec4702', '4-3-2023',42,50,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a438fb4d-4571-4910-aca5-9e00bad51d50','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','34937604-8f8d-49e7-b648-debe07a6e0cc', '6-1-2023',59,57,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a438fb4d-4571-4910-aca5-9e00bad51d50','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','268f5903-2209-4324-9d34-f586efe85055', '2-6-2023',46,88,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('401dc212-b49c-4b0e-a58e-2c4e9c1b3987','e3960eec-e01d-4fd6-b3fc-9f0a34173632','c1848698-4ef7-4d62-9ae2-6e05e0160117', '5-9-2022',58,68,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('80b38477-084d-4b8c-8b1a-d46d79586365','e3960eec-e01d-4fd6-b3fc-9f0a34173632','56b0b280-ef3e-4a93-9db6-60588c7c0900', '7-7-2022',49,34,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5653f811-0838-4214-aeb4-2c7e92587b47','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f', '2-5-2023',48,69,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4c87312d-1cfb-4b75-b14c-f540d028ada2','e3960eec-e01d-4fd6-b3fc-9f0a34173632','68db6230-f487-420f-93b7-76ecad2b6846', '3-10-2022',45,63,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('b7885e88-dad3-4e4c-84f4-b46075fb6458','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','2451a2ed-a15e-4436-a335-7e64c03302cf', '4-4-2023',52,30,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('22f2c0d6-d6b3-425e-a128-b739898d8226','e3960eec-e01d-4fd6-b3fc-9f0a34173632','4d423d57-6826-4706-9092-4988e68b8b49', '6-8-2022',34,31,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('842ee071-e1dc-4837-b32e-a4bddef890aa','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','47399db2-0c1b-4935-93af-ad4ecdbb42c4', '5-5-2022',45,77,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('52e395ef-914e-4c23-a272-413c0487270f','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '7-12-2023',32,64,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('8f3c6f90-a60a-465e-9867-111bdd3e21e2','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','af5ba8ba-7d5e-4a72-92eb-1388b40c862f', '2-6-2023',32,34,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('18643ee3-9083-42a0-af79-bbf9829726f4','e3960eec-e01d-4fd6-b3fc-9f0a34173632','9b3719ab-ad66-4e06-8246-7af232909051', '4-10-2023',46,74,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4fc239b0-8228-4a97-9cfc-a3b392e2eb01','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','38d296ad-a458-4035-bca2-671d5f2af32a', '5-1-2023',59,44,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4fc239b0-8228-4a97-9cfc-a3b392e2eb01','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','34937604-8f8d-49e7-b648-debe07a6e0cc', '7-5-2022',49,67,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('842ee071-e1dc-4837-b32e-a4bddef890aa','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','268f5903-2209-4324-9d34-f586efe85055', '4-5-2023',53,25,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a83f9d93-c24a-4ed4-878f-86dfe3991600','e3960eec-e01d-4fd6-b3fc-9f0a34173632','9b3719ab-ad66-4e06-8246-7af232909051', '2-10-2023',55,89,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('70e3d37c-b049-410a-9622-a0a3b3d5fbb1','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','24ffc63b-f3c0-41b2-ae0e-e1943574ec09', '6-7-2022',57,75,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0e83c328-d1f3-4574-b4cb-038b9341a6e0','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','2726d5c1-8ebb-4bb7-86f6-32b8429c7f3b', '6-3-2022',45,89,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('32877257-7242-46d3-bdb9-bd3e1f7af458','e3960eec-e01d-4fd6-b3fc-9f0a34173632','2726d5c1-8ebb-4bb7-86f6-32b8429c7f3b', '7-10-2022',37,73,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5d4ddbf6-969b-414f-b32d-d182ecffc37a','e3960eec-e01d-4fd6-b3fc-9f0a34173632','38d296ad-a458-4035-bca2-671d5f2af32a', '4-12-2023',43,80,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0eaba853-52dc-4cee-aec4-6de737ec21af','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '5-12-2023',58,20,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('ad174822-37ad-4d5a-a33b-4ac8d2b08acb','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','906da866-91b2-4e77-b8e8-07107848b24e', '4-12-2023',47,88,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a60aed0f-7359-43f3-93d0-0ad2c0d37354','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '2-11-2023',41,22,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0e83c328-d1f3-4574-b4cb-038b9341a6e0','e3960eec-e01d-4fd6-b3fc-9f0a34173632','2451a2ed-a15e-4436-a335-7e64c03302cf', '7-6-2022',30,55,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a60aed0f-7359-43f3-93d0-0ad2c0d37354','e3960eec-e01d-4fd6-b3fc-9f0a34173632','68db6230-f487-420f-93b7-76ecad2b6846', '4-8-2022',44,59,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('bab876cd-bf34-4d2c-a463-faad94cf9e8e','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '5-3-2023',44,39,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('61ae9891-7e5d-4bc9-9055-dbcf0da2abd2','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','2451a2ed-a15e-4436-a335-7e64c03302cf', '5-7-2022',53,72,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('848e54e2-b2d1-4092-aa2b-75aef005c876','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','34937604-8f8d-49e7-b648-debe07a6e0cc', '3-3-2022',42,25,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('695b566f-9463-496b-a5f3-1492e944960a','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','9e3c4034-03c8-4177-92e0-5a50d1006d5e', '3-8-2022',32,57,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('842ee071-e1dc-4837-b32e-a4bddef890aa','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','9b3719ab-ad66-4e06-8246-7af232909051', '7-8-2022',59,82,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('8f3c6f90-a60a-465e-9867-111bdd3e21e2','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','906da866-91b2-4e77-b8e8-07107848b24e', '4-11-2022',42,90,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('f28da4d9-816b-498b-95e0-e832914c5d1c','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','34937604-8f8d-49e7-b648-debe07a6e0cc', '5-5-2022',44,84,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a438fb4d-4571-4910-aca5-9e00bad51d50','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','de9d8b8a-9982-4b08-837c-96a304ec4702', '6-1-2022',38,41,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('8f3c6f90-a60a-465e-9867-111bdd3e21e2','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','e57c70e5-eb9a-483b-82ca-4ee8b795ec33', '6-4-2022',32,83,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('22f2c0d6-d6b3-425e-a128-b739898d8226','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','34937604-8f8d-49e7-b648-debe07a6e0cc', '2-1-2023',44,83,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('e9f09926-92ec-4bfc-acc5-86c937f103a3','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','081c73dd-6fae-4567-bf59-5857b5316ecc', '3-1-2022',32,21,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('078df5e7-8847-47f8-907b-fc6206e67247','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','9e3c4034-03c8-4177-92e0-5a50d1006d5e', '4-5-2022',45,51,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('61ae9891-7e5d-4bc9-9055-dbcf0da2abd2','e3960eec-e01d-4fd6-b3fc-9f0a34173632','7c231791-fe78-4cd6-9df0-1b0445f0e50b', '1-11-2022',55,33,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0e83c328-d1f3-4574-b4cb-038b9341a6e0','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','c1848698-4ef7-4d62-9ae2-6e05e0160117', '3-6-2023',56,37,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a438fb4d-4571-4910-aca5-9e00bad51d50','e3960eec-e01d-4fd6-b3fc-9f0a34173632','7c231791-fe78-4cd6-9df0-1b0445f0e50b', '3-12-2023',35,86,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('84562154-f34c-4dfd-90c5-930bf19ea582','e3960eec-e01d-4fd6-b3fc-9f0a34173632','0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f', '7-12-2023',59,41,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('bb8a36dc-2742-4244-b207-3f433fa40ca1','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '4-8-2023',37,75,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('6927ac31-28b7-4716-b0f3-9a01aab2a18f','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '7-11-2023',34,32,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('187779aa-aa5f-4bb3-95db-ab5d8153d2a5','e3960eec-e01d-4fd6-b3fc-9f0a34173632','4d423d57-6826-4706-9092-4988e68b8b49', '5-11-2022',51,58,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('187779aa-aa5f-4bb3-95db-ab5d8153d2a5','e3960eec-e01d-4fd6-b3fc-9f0a34173632','68db6230-f487-420f-93b7-76ecad2b6846', '4-7-2023',45,51,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('32877257-7242-46d3-bdb9-bd3e1f7af458','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','47399db2-0c1b-4935-93af-ad4ecdbb42c4', '1-5-2022',56,75,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4c87312d-1cfb-4b75-b14c-f540d028ada2','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','af5ba8ba-7d5e-4a72-92eb-1388b40c862f', '5-3-2023',53,65,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a438fb4d-4571-4910-aca5-9e00bad51d50','e3960eec-e01d-4fd6-b3fc-9f0a34173632','0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f', '4-6-2023',48,27,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a438fb4d-4571-4910-aca5-9e00bad51d50','e3960eec-e01d-4fd6-b3fc-9f0a34173632','ebff17e5-82ed-40ac-9549-ff46084eb86b', '2-10-2023',51,86,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('401dc212-b49c-4b0e-a58e-2c4e9c1b3987','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','56b0b280-ef3e-4a93-9db6-60588c7c0900', '6-6-2022',44,21,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0e83c328-d1f3-4574-b4cb-038b9341a6e0','e3960eec-e01d-4fd6-b3fc-9f0a34173632','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '7-7-2022',47,25,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a60aed0f-7359-43f3-93d0-0ad2c0d37354','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','c1848698-4ef7-4d62-9ae2-6e05e0160117', '4-8-2022',56,80,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0eaba853-52dc-4cee-aec4-6de737ec21af','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','081c73dd-6fae-4567-bf59-5857b5316ecc', '7-6-2022',38,32,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('bb8a36dc-2742-4244-b207-3f433fa40ca1','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '5-6-2022',59,59,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('e9f09926-92ec-4bfc-acc5-86c937f103a3','e3960eec-e01d-4fd6-b3fc-9f0a34173632','268f5903-2209-4324-9d34-f586efe85055', '6-2-2022',56,45,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a60aed0f-7359-43f3-93d0-0ad2c0d37354','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','2451a2ed-a15e-4436-a335-7e64c03302cf', '3-2-2022',55,44,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('187779aa-aa5f-4bb3-95db-ab5d8153d2a5','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '6-2-2023',42,64,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4e744615-b766-40ab-b1f7-5e44f9663535','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','9e3c4034-03c8-4177-92e0-5a50d1006d5e', '4-9-2022',52,25,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('b9985de4-70df-49c5-97ec-927671205bc5','e3960eec-e01d-4fd6-b3fc-9f0a34173632','9b3719ab-ad66-4e06-8246-7af232909051', '4-2-2022',36,55,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('f28da4d9-816b-498b-95e0-e832914c5d1c','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','47399db2-0c1b-4935-93af-ad4ecdbb42c4', '4-11-2022',58,61,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('9becd688-1988-4034-b3d3-f413490c52be','e3960eec-e01d-4fd6-b3fc-9f0a34173632','4d423d57-6826-4706-9092-4988e68b8b49', '7-9-2022',46,27,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('8f3c6f90-a60a-465e-9867-111bdd3e21e2','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','e57c70e5-eb9a-483b-82ca-4ee8b795ec33', '7-2-2023',58,47,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('70e3d37c-b049-410a-9622-a0a3b3d5fbb1','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','34937604-8f8d-49e7-b648-debe07a6e0cc', '1-5-2023',44,70,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('84562154-f34c-4dfd-90c5-930bf19ea582','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','4d423d57-6826-4706-9092-4988e68b8b49', '4-2-2022',44,64,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('916bbb86-1927-485f-aa6e-1e45aedf4406','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','270df046-7c54-4384-9b5a-a2c88c933e13', '6-4-2022',43,43,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('6927ac31-28b7-4716-b0f3-9a01aab2a18f','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','38d296ad-a458-4035-bca2-671d5f2af32a', '6-11-2022',35,62,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('f521b96f-3e91-462e-9d3d-3f92d26a1718','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','268f5903-2209-4324-9d34-f586efe85055', '2-5-2023',53,48,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('12a94c8a-adc7-45dd-82ad-8f548f83dff1','e3960eec-e01d-4fd6-b3fc-9f0a34173632','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '7-11-2022',54,84,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('61ae9891-7e5d-4bc9-9055-dbcf0da2abd2','e3960eec-e01d-4fd6-b3fc-9f0a34173632','0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f', '7-6-2023',50,66,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4e744615-b766-40ab-b1f7-5e44f9663535','e3960eec-e01d-4fd6-b3fc-9f0a34173632','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '2-12-2022',45,55,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('848e54e2-b2d1-4092-aa2b-75aef005c876','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','ebff17e5-82ed-40ac-9549-ff46084eb86b', '2-11-2022',47,61,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5d4ddbf6-969b-414f-b32d-d182ecffc37a','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','68db6230-f487-420f-93b7-76ecad2b6846', '7-11-2023',60,23,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('d84956dd-9cbe-46ed-bc9a-ede50c7dcaa4','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','68db6230-f487-420f-93b7-76ecad2b6846', '3-10-2022',39,58,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('b9985de4-70df-49c5-97ec-927671205bc5','e3960eec-e01d-4fd6-b3fc-9f0a34173632','081c73dd-6fae-4567-bf59-5857b5316ecc', '5-4-2023',44,43,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('52e395ef-914e-4c23-a272-413c0487270f','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','ebff17e5-82ed-40ac-9549-ff46084eb86b', '3-10-2022',52,34,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('426753ab-a77c-4338-b513-01b4da96646b','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','c1848698-4ef7-4d62-9ae2-6e05e0160117', '6-9-2022',34,86,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('9becd688-1988-4034-b3d3-f413490c52be','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','68db6230-f487-420f-93b7-76ecad2b6846', '4-2-2023',52,75,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5d4ddbf6-969b-414f-b32d-d182ecffc37a','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','906da866-91b2-4e77-b8e8-07107848b24e', '5-10-2023',39,86,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('32877257-7242-46d3-bdb9-bd3e1f7af458','e3960eec-e01d-4fd6-b3fc-9f0a34173632','38d296ad-a458-4035-bca2-671d5f2af32a', '4-9-2023',46,69,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('8f3c6f90-a60a-465e-9867-111bdd3e21e2','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '7-6-2023',55,24,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('085366dd-cdb4-4c7f-a07c-b28d70fdff27','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','7c231791-fe78-4cd6-9df0-1b0445f0e50b', '1-9-2022',51,40,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('9becd688-1988-4034-b3d3-f413490c52be','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','081c73dd-6fae-4567-bf59-5857b5316ecc', '4-3-2022',57,62,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('70e3d37c-b049-410a-9622-a0a3b3d5fbb1','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','34937604-8f8d-49e7-b648-debe07a6e0cc', '1-12-2022',48,72,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('32877257-7242-46d3-bdb9-bd3e1f7af458','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','081c73dd-6fae-4567-bf59-5857b5316ecc', '7-3-2022',58,83,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a83f9d93-c24a-4ed4-878f-86dfe3991600','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','2451a2ed-a15e-4436-a335-7e64c03302cf', '7-9-2022',40,68,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4e744615-b766-40ab-b1f7-5e44f9663535','e3960eec-e01d-4fd6-b3fc-9f0a34173632','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '5-7-2023',41,67,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5653f811-0838-4214-aeb4-2c7e92587b47','e3960eec-e01d-4fd6-b3fc-9f0a34173632','4d423d57-6826-4706-9092-4988e68b8b49', '1-1-2022',42,83,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5224c835-4a14-4a99-b2eb-a7b827b024a8','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','24ffc63b-f3c0-41b2-ae0e-e1943574ec09', '6-11-2022',32,34,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('848e54e2-b2d1-4092-aa2b-75aef005c876','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '7-9-2022',47,70,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('d84956dd-9cbe-46ed-bc9a-ede50c7dcaa4','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','ebff17e5-82ed-40ac-9549-ff46084eb86b', '1-7-2022',38,48,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4e744615-b766-40ab-b1f7-5e44f9663535','e3960eec-e01d-4fd6-b3fc-9f0a34173632','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '2-5-2023',33,51,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5224c835-4a14-4a99-b2eb-a7b827b024a8','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','c1848698-4ef7-4d62-9ae2-6e05e0160117', '1-8-2022',60,86,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4fc239b0-8228-4a97-9cfc-a3b392e2eb01','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','906da866-91b2-4e77-b8e8-07107848b24e', '5-3-2023',51,57,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('7a643ebf-57f4-4416-8d82-14281df85df4','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','9b3719ab-ad66-4e06-8246-7af232909051', '1-8-2023',48,51,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('916bbb86-1927-485f-aa6e-1e45aedf4406','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','47399db2-0c1b-4935-93af-ad4ecdbb42c4', '5-5-2022',48,80,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5653f811-0838-4214-aeb4-2c7e92587b47','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','9e3c4034-03c8-4177-92e0-5a50d1006d5e', '5-1-2023',41,65,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('70e3d37c-b049-410a-9622-a0a3b3d5fbb1','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','af5ba8ba-7d5e-4a72-92eb-1388b40c862f', '7-4-2022',48,74,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('b7885e88-dad3-4e4c-84f4-b46075fb6458','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','34937604-8f8d-49e7-b648-debe07a6e0cc', '1-9-2023',31,79,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('d84956dd-9cbe-46ed-bc9a-ede50c7dcaa4','e3960eec-e01d-4fd6-b3fc-9f0a34173632','2451a2ed-a15e-4436-a335-7e64c03302cf', '4-4-2022',32,57,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('426753ab-a77c-4338-b513-01b4da96646b','e3960eec-e01d-4fd6-b3fc-9f0a34173632','af5ba8ba-7d5e-4a72-92eb-1388b40c862f', '6-6-2022',47,25,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('61ae9891-7e5d-4bc9-9055-dbcf0da2abd2','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','081c73dd-6fae-4567-bf59-5857b5316ecc', '2-12-2022',37,73,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('70e3d37c-b049-410a-9622-a0a3b3d5fbb1','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','906da866-91b2-4e77-b8e8-07107848b24e', '4-4-2023',34,30,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('bb8a36dc-2742-4244-b207-3f433fa40ca1','e3960eec-e01d-4fd6-b3fc-9f0a34173632','de9d8b8a-9982-4b08-837c-96a304ec4702', '4-9-2023',32,52,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('842ee071-e1dc-4837-b32e-a4bddef890aa','e3960eec-e01d-4fd6-b3fc-9f0a34173632','68db6230-f487-420f-93b7-76ecad2b6846', '3-3-2023',40,40,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('22f2c0d6-d6b3-425e-a128-b739898d8226','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','38d296ad-a458-4035-bca2-671d5f2af32a', '4-10-2022',36,79,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4f8164d6-f376-45bd-ab0b-55c44070250e','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','9b3719ab-ad66-4e06-8246-7af232909051', '4-8-2023',36,73,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('32877257-7242-46d3-bdb9-bd3e1f7af458','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','9b3719ab-ad66-4e06-8246-7af232909051', '3-5-2022',49,31,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('401dc212-b49c-4b0e-a58e-2c4e9c1b3987','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','38d296ad-a458-4035-bca2-671d5f2af32a', '2-10-2023',49,52,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('848e54e2-b2d1-4092-aa2b-75aef005c876','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','af5ba8ba-7d5e-4a72-92eb-1388b40c862f', '3-5-2022',32,39,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('426753ab-a77c-4338-b513-01b4da96646b','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','270df046-7c54-4384-9b5a-a2c88c933e13', '4-11-2023',60,72,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('401dc212-b49c-4b0e-a58e-2c4e9c1b3987','e3960eec-e01d-4fd6-b3fc-9f0a34173632','0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f', '4-2-2022',53,71,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('848e54e2-b2d1-4092-aa2b-75aef005c876','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','2726d5c1-8ebb-4bb7-86f6-32b8429c7f3b', '4-8-2022',52,53,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4f8164d6-f376-45bd-ab0b-55c44070250e','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f', '5-12-2022',35,35,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5653f811-0838-4214-aeb4-2c7e92587b47','e3960eec-e01d-4fd6-b3fc-9f0a34173632','56b0b280-ef3e-4a93-9db6-60588c7c0900', '4-7-2023',45,57,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('f28da4d9-816b-498b-95e0-e832914c5d1c','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','c1848698-4ef7-4d62-9ae2-6e05e0160117', '2-6-2023',44,64,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('d84956dd-9cbe-46ed-bc9a-ede50c7dcaa4','e3960eec-e01d-4fd6-b3fc-9f0a34173632','38d296ad-a458-4035-bca2-671d5f2af32a', '2-11-2022',46,41,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('12a94c8a-adc7-45dd-82ad-8f548f83dff1','e3960eec-e01d-4fd6-b3fc-9f0a34173632','47399db2-0c1b-4935-93af-ad4ecdbb42c4', '3-11-2022',33,54,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('cc16b0ae-ba34-4d52-8cc9-407e258ae652','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','34937604-8f8d-49e7-b648-debe07a6e0cc', '2-8-2022',34,37,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('80689505-b4ab-4a63-89cc-cbbe2c11ccf8','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','68db6230-f487-420f-93b7-76ecad2b6846', '7-1-2022',30,63,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0178bb59-933b-4280-8054-55075f1efe13','e3960eec-e01d-4fd6-b3fc-9f0a34173632','2726d5c1-8ebb-4bb7-86f6-32b8429c7f3b', '2-3-2022',48,71,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('f2943ef8-4f0f-4654-be3c-c2e99f50ed2a','e3960eec-e01d-4fd6-b3fc-9f0a34173632','9e3c4034-03c8-4177-92e0-5a50d1006d5e', '5-8-2023',38,50,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('80689505-b4ab-4a63-89cc-cbbe2c11ccf8','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','ebff17e5-82ed-40ac-9549-ff46084eb86b', '1-10-2022',52,28,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('085366dd-cdb4-4c7f-a07c-b28d70fdff27','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','270df046-7c54-4384-9b5a-a2c88c933e13', '5-6-2023',34,54,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('426753ab-a77c-4338-b513-01b4da96646b','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','af5ba8ba-7d5e-4a72-92eb-1388b40c862f', '3-3-2022',54,22,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('84562154-f34c-4dfd-90c5-930bf19ea582','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','c1848698-4ef7-4d62-9ae2-6e05e0160117', '4-10-2023',37,23,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0178bb59-933b-4280-8054-55075f1efe13','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','c1848698-4ef7-4d62-9ae2-6e05e0160117', '3-5-2023',39,37,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('ad174822-37ad-4d5a-a33b-4ac8d2b08acb','e3960eec-e01d-4fd6-b3fc-9f0a34173632','270df046-7c54-4384-9b5a-a2c88c933e13', '2-8-2023',46,77,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a438fb4d-4571-4910-aca5-9e00bad51d50','e3960eec-e01d-4fd6-b3fc-9f0a34173632','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '6-9-2023',41,73,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('12a94c8a-adc7-45dd-82ad-8f548f83dff1','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','47399db2-0c1b-4935-93af-ad4ecdbb42c4', '6-9-2022',51,69,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a438fb4d-4571-4910-aca5-9e00bad51d50','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','47399db2-0c1b-4935-93af-ad4ecdbb42c4', '5-2-2022',44,75,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('32877257-7242-46d3-bdb9-bd3e1f7af458','e3960eec-e01d-4fd6-b3fc-9f0a34173632','906da866-91b2-4e77-b8e8-07107848b24e', '4-1-2023',34,31,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('22f2c0d6-d6b3-425e-a128-b739898d8226','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','270df046-7c54-4384-9b5a-a2c88c933e13', '1-3-2023',57,60,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('32877257-7242-46d3-bdb9-bd3e1f7af458','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','9b3719ab-ad66-4e06-8246-7af232909051', '2-6-2023',42,54,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('7a643ebf-57f4-4416-8d82-14281df85df4','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','4d423d57-6826-4706-9092-4988e68b8b49', '3-6-2023',37,22,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('cc16b0ae-ba34-4d52-8cc9-407e258ae652','e3960eec-e01d-4fd6-b3fc-9f0a34173632','c1848698-4ef7-4d62-9ae2-6e05e0160117', '7-1-2023',35,78,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('bb8a36dc-2742-4244-b207-3f433fa40ca1','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','2726d5c1-8ebb-4bb7-86f6-32b8429c7f3b', '5-9-2023',33,89,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5653f811-0838-4214-aeb4-2c7e92587b47','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','ebff17e5-82ed-40ac-9549-ff46084eb86b', '4-7-2022',45,73,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('61ae9891-7e5d-4bc9-9055-dbcf0da2abd2','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '4-7-2022',60,56,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('c78981ae-6141-4634-a44c-51625583907e','e3960eec-e01d-4fd6-b3fc-9f0a34173632','34937604-8f8d-49e7-b648-debe07a6e0cc', '6-4-2023',59,77,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('52e395ef-914e-4c23-a272-413c0487270f','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','56b0b280-ef3e-4a93-9db6-60588c7c0900', '3-11-2023',38,61,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('cc16b0ae-ba34-4d52-8cc9-407e258ae652','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','268f5903-2209-4324-9d34-f586efe85055', '2-11-2022',40,20,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('8f3c6f90-a60a-465e-9867-111bdd3e21e2','e3960eec-e01d-4fd6-b3fc-9f0a34173632','34937604-8f8d-49e7-b648-debe07a6e0cc', '4-12-2022',51,80,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('187779aa-aa5f-4bb3-95db-ab5d8153d2a5','e3960eec-e01d-4fd6-b3fc-9f0a34173632','270df046-7c54-4384-9b5a-a2c88c933e13', '5-6-2022',31,21,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('085366dd-cdb4-4c7f-a07c-b28d70fdff27','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','268f5903-2209-4324-9d34-f586efe85055', '2-10-2022',32,29,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('d84956dd-9cbe-46ed-bc9a-ede50c7dcaa4','e3960eec-e01d-4fd6-b3fc-9f0a34173632','2451a2ed-a15e-4436-a335-7e64c03302cf', '7-9-2023',34,83,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('078df5e7-8847-47f8-907b-fc6206e67247','e3960eec-e01d-4fd6-b3fc-9f0a34173632','4d423d57-6826-4706-9092-4988e68b8b49', '7-3-2022',34,44,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5653f811-0838-4214-aeb4-2c7e92587b47','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','2451a2ed-a15e-4436-a335-7e64c03302cf', '7-12-2022',56,43,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('426753ab-a77c-4338-b513-01b4da96646b','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','270df046-7c54-4384-9b5a-a2c88c933e13', '2-11-2022',37,22,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('80689505-b4ab-4a63-89cc-cbbe2c11ccf8','e3960eec-e01d-4fd6-b3fc-9f0a34173632','af5ba8ba-7d5e-4a72-92eb-1388b40c862f', '4-12-2023',49,77,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0178bb59-933b-4280-8054-55075f1efe13','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','7c231791-fe78-4cd6-9df0-1b0445f0e50b', '1-8-2022',41,28,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4c87312d-1cfb-4b75-b14c-f540d028ada2','e3960eec-e01d-4fd6-b3fc-9f0a34173632','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '4-11-2022',58,39,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('f521b96f-3e91-462e-9d3d-3f92d26a1718','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','9b3719ab-ad66-4e06-8246-7af232909051', '3-10-2022',50,82,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('b9985de4-70df-49c5-97ec-927671205bc5','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','270df046-7c54-4384-9b5a-a2c88c933e13', '7-10-2022',53,44,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('085366dd-cdb4-4c7f-a07c-b28d70fdff27','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','7c231791-fe78-4cd6-9df0-1b0445f0e50b', '2-2-2022',48,26,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('6927ac31-28b7-4716-b0f3-9a01aab2a18f','e3960eec-e01d-4fd6-b3fc-9f0a34173632','24ffc63b-f3c0-41b2-ae0e-e1943574ec09', '6-9-2023',46,46,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a60aed0f-7359-43f3-93d0-0ad2c0d37354','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','081c73dd-6fae-4567-bf59-5857b5316ecc', '3-3-2022',56,85,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('d84956dd-9cbe-46ed-bc9a-ede50c7dcaa4','e3960eec-e01d-4fd6-b3fc-9f0a34173632','2451a2ed-a15e-4436-a335-7e64c03302cf', '1-5-2022',42,76,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('61ae9891-7e5d-4bc9-9055-dbcf0da2abd2','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','c42e5f64-9630-435b-b78c-baa51ea8360f', '7-5-2022',50,86,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('b9985de4-70df-49c5-97ec-927671205bc5','e3960eec-e01d-4fd6-b3fc-9f0a34173632','e57c70e5-eb9a-483b-82ca-4ee8b795ec33', '6-2-2023',44,62,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4f8164d6-f376-45bd-ab0b-55c44070250e','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','9e3c4034-03c8-4177-92e0-5a50d1006d5e', '2-12-2022',32,37,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('bab876cd-bf34-4d2c-a463-faad94cf9e8e','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','24ffc63b-f3c0-41b2-ae0e-e1943574ec09', '6-5-2023',47,51,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('b7885e88-dad3-4e4c-84f4-b46075fb6458','e3960eec-e01d-4fd6-b3fc-9f0a34173632','2726d5c1-8ebb-4bb7-86f6-32b8429c7f3b', '1-8-2022',39,31,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('bb8a36dc-2742-4244-b207-3f433fa40ca1','e3960eec-e01d-4fd6-b3fc-9f0a34173632','dbde520d-9a0a-456e-a395-6b8ad9d5785a', '1-8-2022',47,39,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('cc16b0ae-ba34-4d52-8cc9-407e258ae652','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','2451a2ed-a15e-4436-a335-7e64c03302cf', '1-1-2022',38,82,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('70e3d37c-b049-410a-9622-a0a3b3d5fbb1','e3960eec-e01d-4fd6-b3fc-9f0a34173632','38d296ad-a458-4035-bca2-671d5f2af32a', '2-1-2022',34,66,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('f521b96f-3e91-462e-9d3d-3f92d26a1718','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','de9d8b8a-9982-4b08-837c-96a304ec4702', '4-9-2023',40,46,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('bab876cd-bf34-4d2c-a463-faad94cf9e8e','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f', '1-1-2022',37,27,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a83f9d93-c24a-4ed4-878f-86dfe3991600','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','081c73dd-6fae-4567-bf59-5857b5316ecc', '3-1-2022',41,37,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('12a94c8a-adc7-45dd-82ad-8f548f83dff1','e3960eec-e01d-4fd6-b3fc-9f0a34173632','2726d5c1-8ebb-4bb7-86f6-32b8429c7f3b', '7-9-2022',43,22,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('5d4ddbf6-969b-414f-b32d-d182ecffc37a','e3960eec-e01d-4fd6-b3fc-9f0a34173632','68db6230-f487-420f-93b7-76ecad2b6846', '1-5-2022',52,57,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('d84956dd-9cbe-46ed-bc9a-ede50c7dcaa4','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '2-7-2022',46,81,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('84562154-f34c-4dfd-90c5-930bf19ea582','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','268f5903-2209-4324-9d34-f586efe85055', '4-4-2022',58,43,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('61ae9891-7e5d-4bc9-9055-dbcf0da2abd2','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','ebff17e5-82ed-40ac-9549-ff46084eb86b', '6-7-2023',59,32,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('187779aa-aa5f-4bb3-95db-ab5d8153d2a5','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f', '4-6-2022',56,56,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('078df5e7-8847-47f8-907b-fc6206e67247','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','268f5903-2209-4324-9d34-f586efe85055', '3-8-2022',53,79,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('842ee071-e1dc-4837-b32e-a4bddef890aa','e3960eec-e01d-4fd6-b3fc-9f0a34173632','2726d5c1-8ebb-4bb7-86f6-32b8429c7f3b', '3-9-2022',57,58,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('401dc212-b49c-4b0e-a58e-2c4e9c1b3987','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','7b0e0c1d-bf1c-4864-9fdb-4cb107241df5', '1-3-2022',58,26,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('b9985de4-70df-49c5-97ec-927671205bc5','e3960eec-e01d-4fd6-b3fc-9f0a34173632','081c73dd-6fae-4567-bf59-5857b5316ecc', '2-7-2023',33,73,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('085366dd-cdb4-4c7f-a07c-b28d70fdff27','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','4d423d57-6826-4706-9092-4988e68b8b49', '3-1-2022',57,61,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('52e395ef-914e-4c23-a272-413c0487270f','e3960eec-e01d-4fd6-b3fc-9f0a34173632','0f59f1dd-614f-44fe-89e6-03b1dc2f1a9f', '3-5-2023',59,52,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('a60aed0f-7359-43f3-93d0-0ad2c0d37354','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','68db6230-f487-420f-93b7-76ecad2b6846', '4-1-2023',42,41,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('7a643ebf-57f4-4416-8d82-14281df85df4','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','24ffc63b-f3c0-41b2-ae0e-e1943574ec09', '4-6-2022',40,49,'Completed');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('4c87312d-1cfb-4b75-b14c-f540d028ada2','e3960eec-e01d-4fd6-b3fc-9f0a34173632','268f5903-2209-4324-9d34-f586efe85055', '2-8-2023',59,84,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('085366dd-cdb4-4c7f-a07c-b28d70fdff27','bbcc0ba6-3267-4aa4-8b2d-1ec4c539efd0','2451a2ed-a15e-4436-a335-7e64c03302cf', '7-4-2023',58,68,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('ad174822-37ad-4d5a-a33b-4ac8d2b08acb','e3960eec-e01d-4fd6-b3fc-9f0a34173632','34937604-8f8d-49e7-b648-debe07a6e0cc', '5-7-2023',48,69,'Not Started');
+INSERT INTO customerServiceSchedule (CustomerID, ServiceTypeID, EmployeeID, StartDateTime, ExpectedDuration, ActualDuration, Status) VALUES 
+        ('0178bb59-933b-4280-8054-55075f1efe13','6d2f251a-17c1-4e5a-9eea-d41f9feea1f0','7c231791-fe78-4cd6-9df0-1b0445f0e50b', '7-10-2022',33,34,'Completed');
